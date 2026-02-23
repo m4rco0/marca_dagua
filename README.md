@@ -35,7 +35,7 @@ pip install opencv-python numpy rawpy
     Rode o script pelo terminal:
     ```Bash
 
-    python nome_do_seu_arquivo.py
+    python main.py
     ```
 Resultado:
     As imagens processadas serão salvas na pasta imgs_marcadas/ com o sufixo _marcado.png.
@@ -50,3 +50,5 @@ Plaintext
 ├── marca_dagua.png      # Sua logo
 └── script.py            # O código fonte
 ```
+## execução
+<img width="898" height="389" alt="Image" src="https://github.com/user-attachments/assets/29827000-3b55-4903-bcea-def1cb32b174" />
