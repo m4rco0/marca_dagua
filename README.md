@@ -5,6 +5,8 @@ Este script Python foi desenvolvido para automatizar a aplicação de marcas d'�
 TODO
 - [ ] Interface grafica
 - [ ] Gerar executavel
+- [ ] transparência logo
+      
 O script redimensiona a marca d'água proporcionalmente e a aplica de forma centralizada, garantindo que o logo nunca ultrapasse os limites da imagem original.
 
 ✨ Funcionalidades
@@ -52,3 +54,6 @@ Plaintext
 ```
 ## execução
 <img width="898" height="389" alt="Image" src="https://github.com/user-attachments/assets/29827000-3b55-4903-bcea-def1cb32b174" />
+
+## exemplo img_marcada
+<img width="444" height="444" alt="Image" src="https://github.com/user-attachments/assets/6a0429cb-5041-4d1e-be09-9701ac2b3db3" />
